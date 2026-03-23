@@ -1,0 +1,7 @@
+{
+  "name": "Knighthood Marketing",
+  "description": "Professional business consulting firm in Gaborone, Botswana, offering strategic marketing, training, and branding solutions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
